@@ -1,0 +1,3 @@
+# Python: Handling Non-Numeric Values in List Averages
+
+This repository demonstrates a common error in Python and its solution. The `bug.py` file contains a function to calculate the average of a list of numbers. However, it fails if the list contains non-numeric values. The `bugSolution.py` file shows how to handle this using a `try-except` block for robust error management.  This is a crucial aspect of defensive programming.
